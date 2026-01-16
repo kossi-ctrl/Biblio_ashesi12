@@ -51,4 +51,21 @@ ashesi_library_project/
 - **CSS** – Mise en forme et responsive design  
 - **JavaScript** – Dynamisme et interactivité  
 - **JSON** – Gestion des données livres et événements  
-- **Git & GitHub** – Gestion de version et hébergement sur GitHub Pages  
+- **Git & GitHub** – Gestion de version et hébergement sur GitHub Pages
+
+---
+
+## 👥 Auteurs
+
+- **DOKANOU K. Daniel**  
+- **HALIM Thamra**  
+- **ZANGBE Kossi**
+
+---
+
+# Licence 
+
+[Centre d'Études Supérieures de la Renaissance, Université de Tours](https://www.cesr.tours.fr),© Décembre 2026 par Daniel, Thamra & kossi est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+
+
+  
